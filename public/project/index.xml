@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sandra Auderset</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Mixtecan language history</title>
+      <link>/project/thesis-project/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/thesis-project/</guid>
+      <description>&lt;h2 id=&#34;thesis-topics-and-materials&#34;&gt;Thesis Topics and Materials&lt;/h2&gt;
+&lt;p&gt;Advisors: &lt;a href=&#34;https://www.linguistics.ucsb.edu/people/eric-w-campbell&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Eric W. Campbell&lt;/a&gt; (UCSB) and &lt;a href=&#34;https://simon.net.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simon J. Greenhill&lt;/a&gt; (MPI)&lt;/p&gt;
+&lt;p&gt;Topics:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Revisiting subgrouping in Mixtecan&lt;/li&gt;
+&lt;li&gt;Diachrony of verbal inflection in Mixtecan&lt;/li&gt;
+&lt;li&gt;Tone change and tone reconstruction in Mixtecan&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Documenting Tù&#39;un Na Ñuu Sá Matxí Ntxè&#39;è (San Martín Duraznos Mixtec)</title>
+      <link>/project/documentation-project/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/project/documentation-project/</guid>
+      <description>&lt;h2 id=&#34;more-info-coming-soon&#34;&gt;More info coming soon!&lt;/h2&gt;
+&lt;h4 id=&#34;documentation-work-timeline&#34;&gt;Documentation work timeline:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Fall 2017 - Spring 2018: field methods class at UCSB (30 weeks)&lt;/li&gt;
+&lt;li&gt;Dec 2019/Jan 2020: Trip #1 to San Martín Duraznos (4 weeks)&lt;/li&gt;
+&lt;li&gt;Summer 2018 - ongoing: documentation in and with the diaspora community in Oxnard, CA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;resources-on-the-web&#34;&gt;Resources on the web:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;online talking dictionary (Mixtec-Spanish-English) - link coming soon!&lt;/li&gt;
+&lt;li&gt;Let&amp;rsquo;s learn Mixteco &lt;a href=&#34;www.letslearnmixteco.com&#34;&gt;website&lt;/a&gt; (built by my colleagues Albert Ventayol Boada &amp;amp; John Cano Barrios) - a collection of educational games and exercises for learning and practicing San Martín Duraznos Mixtec&lt;/li&gt;
+&lt;li&gt;Let&amp;rsquo;s learn Mixteco &lt;a href=&#34;https://facebook.com/Lets-Learn-Mixteco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;facebook page&lt;/a&gt; (managed by Carmen Hernández Martínez) - follow us for memes, videos, word of the day, and more in San Martín Duraznos Mixtec&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;resources-for-download&#34;&gt;Resources for download:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;reading and writing booklet (in Spanish) - &lt;a href=&#34;/downloads/SMD-0067-Lectoescritura.pdf&#34; target=&#34;_blank&#34;&gt;download the PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;learning the colors booklet (in Spanish) - &lt;a href=&#34;/downloads/SMD-0029-Colores_librito.pdf&#34; target=&#34;_blank&#34;&gt;download the PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;overview of tone and its uses in the lexicon and grammar (in Spanish) - &lt;a href=&#34;/downloads/auderset-2020-el-tono.pdf&#34; target=&#34;_blank&#34;&gt;download the slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;preliminary analysis of verbal inflection (in Spanish) - &lt;a href=&#34;/downloads/auderset-2019-hacia.pdf&#34; target=&#34;_blank&#34;&gt;download the slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Materials and Resources on Mixtecan languages</title>
+      <link>/project/resources-project/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/project/resources-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Mixtecan Concordance: Overview of all Mixtecan-speaking villages with geographical (coordinates) and genealogical (subgrouping) information, corresponding codes, etc. combining the resources from Glottolog, INALI, Ethnologue, Multitree, Josserand 1983, Egland &amp;amp; Bartholomew 1983; providing a unique identifier for each village, expandable&lt;/li&gt;
+&lt;li&gt;Annotated Mixtec bibliography: annotating each resource with the identifier(s) of the varieties discussed, so resources can be easily found and compared - in progress&lt;/li&gt;
+&lt;li&gt;Comparative lexical database with entries in IPA - coming soon!&lt;/li&gt;
+&lt;li&gt;Comparative database of Mixtec verb paradigms - coming soon!&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

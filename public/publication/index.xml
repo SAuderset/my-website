@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Sandra Auderset</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2022</copyright>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>The antipassive and its relationship to person markers</title>
+      <link>/publication/auderset-2021-the-antipassive/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/auderset-2021-the-antipassive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interrogatives as relativization markers in Indo-European</title>
+      <link>/publication/auderset-2020-interrogatives/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/auderset-2020-interrogatives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case inflection and the functional indeterminacy of nouns: A cross-linguistic analysis.</title>
+      <link>/publication/lester-2018-case/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/lester-2018-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NP recursion over time: Evidence from Indo-European</title>
+      <link>/publication/widmer-2017-np/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/widmer-2017-np/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice and Person Marking -- A Typological Study</title>
+      <link>/publication/auderset-2015-voice/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/auderset-2015-voice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

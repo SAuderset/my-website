@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Sandra Auderset</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2022</copyright>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Learning together through literacy materials for Tù&#39;un na Ñuu Sá Mátxí Ntxè&#39;è (Mixtec)</title>
+      <link>/talk/auderset-2021-learning/</link>
+      <pubDate>Thu, 11 Mar 2021 13:04:49 +0100</pubDate>
+      <guid>/talk/auderset-2021-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond binaries in community-centered research relationships</title>
+      <link>/talk/milpa-2021-beyond/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/milpa-2021-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El tono el Mixteco de San Martín Duraznos</title>
+      <link>/talk/auderset-2020-el-tono/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/auderset-2020-el-tono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correspondencias tonales regulares e irregulares en lenguas mixtecas de California</title>
+      <link>/talk/campbell-2019-correspondencias/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/campbell-2019-correspondencias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacía un análisis de la flexión verbal en el Tù’un Na Ñuu Sá Matxí Ntxè’è (Mixteco de San Martín Duraznos)</title>
+      <link>/talk/auderset-2019-hacia/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/auderset-2019-hacia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An empirical reconsideration of tone volatility and segment stability in Mixtec languages</title>
+      <link>/talk/auderset-2019-an-empirical/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/auderset-2019-an-empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing the diachronic and typological study of tone with comparative lexical databases: a case study of five Mixtec varieties</title>
+      <link>/talk/auderset-2019-advancing/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/auderset-2019-advancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity and diversity in causative constructions of Mixtec languages</title>
+      <link>/talk/auderset-2018-unity/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/auderset-2018-unity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
